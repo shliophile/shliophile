@@ -1,5 +1,5 @@
 
-&nbsp&nbsp&nbsp&nbsp<h1 style="padding-left: 15px">
+<h1>
   WELCOME MY PAGE  
 </h1>
 
@@ -8,7 +8,7 @@
 <h4>I'm interested in front-end right now.</h4>
 <h4>I learned html and css sufficiently</h4>
 <h4>How can you contact me</h4>
-|
+<button type="button">LinkedIn</button>
 
 <!---
 shliophile/shliophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
