@@ -8,7 +8,7 @@
 <h4>I'm interested in front-end right now.</h4>
 <h4>I learned html and css sufficiently</h4>
 <h4>How can you contact me</h4>
-LinkedIn
-İnstagram
+<p>LinkedIn</p>
+<p>İnstagram</p>
 
 
