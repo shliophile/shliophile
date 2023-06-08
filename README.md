@@ -1,14 +1,14 @@
 
-<h1 style="padding-left: 15px">
+&nbsp&nbsp&nbsp&nbsp<h1 style="padding-left: 15px">
   WELCOME MY PAGE  
 </h1>
 
 
 <h3>Hi I'm arda</h3>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h4>I'm interested in front-end right now.</h4>
+<h4>I learned html and css sufficiently</h4>
+<h4>How can you contact me</h4>
+|
 
 <!---
 shliophile/shliophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
