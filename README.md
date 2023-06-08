@@ -1,3 +1,9 @@
+<center>
+<h1>
+  WELCOME MY PAGE  
+</h1>
+</center>
+
 <h2>Hi I'm arda</h2>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
