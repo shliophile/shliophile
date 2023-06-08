@@ -1,10 +1,10 @@
-<center>
-<h1>
+
+<h1 style="padding-left: 15px">
   WELCOME MY PAGE  
 </h1>
-</center>
 
-<h2>Hi I'm arda</h2>
+
+<h3>Hi I'm arda</h3>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
